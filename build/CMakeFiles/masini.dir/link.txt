@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/masini.dir/src/Investigator.cpp.o CMakeFiles/masini.dir/src/Case.cpp.o CMakeFiles/masini.dir/src/main.cpp.o  -o masini 

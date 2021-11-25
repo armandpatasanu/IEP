@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/patasanu/Armand/Faculta/IEP/final1/includes/Case.hpp
+iostream
+-
+Investigator.hpp
+/mnt/c/Users/patasanu/Armand/Faculta/IEP/final1/includes/Investigator.hpp
+
+/mnt/c/Users/patasanu/Armand/Faculta/IEP/final1/includes/Investigator.hpp
+iostream
+-
+
+/mnt/c/Users/patasanu/Armand/Faculta/IEP/final1/src/Case.cpp
+../includes/Case.hpp
+/mnt/c/Users/patasanu/Armand/Faculta/IEP/final1/includes/Case.hpp
+
+/mnt/c/Users/patasanu/Armand/Faculta/IEP/final1/src/Investigator.cpp
+../includes/Investigator.hpp
+/mnt/c/Users/patasanu/Armand/Faculta/IEP/final1/includes/Investigator.hpp
+
+/mnt/c/Users/patasanu/Armand/Faculta/IEP/final1/src/main.cpp
+

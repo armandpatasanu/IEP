@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/final1.dir/src/Investigator.cpp.o CMakeFiles/final1.dir/src/Case.cpp.o CMakeFiles/final1.dir/src/CriminalCase.cpp.o CMakeFiles/final1.dir/src/FamilyCase.cpp.o CMakeFiles/final1.dir/src/main.cpp.o  -o final1 

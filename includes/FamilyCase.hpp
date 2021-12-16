@@ -11,7 +11,7 @@ private:
 public:
     FamilyCase() = default;
     FamilyCase(const FamilyCase& c);
-    FamilyCase(std::string name, int nr, Investigator* inv, int t, std::string fn);
+    FamilyCase(std::string name, int nr, std::shared_ptr<Investigator> inv, int t, std::string fn);
     void showCase();
     FamilyCase& operator=(const FamilyCase& c);
 };

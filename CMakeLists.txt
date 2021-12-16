@@ -24,8 +24,10 @@ add_executable(${PROJECT_NAME}
                 includes/Case.hpp
                 includes/CriminalCase.hpp
                 includes/FamilyCase.hpp
+                includes/LockedCase.hpp
                 src/Investigator.cpp
                 src/Case.cpp
                 src/CriminalCase.cpp
                 src/FamilyCase.cpp
-                src/main.cpp)
+                src/main.cpp
+                src/LockedCase.cpp)

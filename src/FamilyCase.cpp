@@ -2,7 +2,7 @@
 
 FamilyCase::FamilyCase(std::string name, 
                            int nr, 
-                           Investigator* inv, 
+                           std::shared_ptr<Investigator> inv, 
                            int n, 
                            std::string fn) : Case(name, nr, inv), caseType_(n), familyName_(fn){}
 

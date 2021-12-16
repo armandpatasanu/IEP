@@ -2,7 +2,7 @@
 
 CriminalCase::CriminalCase(std::string name, 
                            int nr, 
-                           Investigator* inv, 
+                           std::shared_ptr<Investigator> inv, 
                            std::string n, 
                            std::string n1) : Case(name, nr, inv), criminalName_(n), victimName_(n1){}
 

@@ -23,4 +23,9 @@ CMakeFiles/final1.dir/src/main.cpp.o: ../includes/CriminalCase.hpp
 CMakeFiles/final1.dir/src/main.cpp.o: ../includes/FamilyCase.hpp
 CMakeFiles/final1.dir/src/main.cpp.o: ../includes/Investigator.hpp
 CMakeFiles/final1.dir/src/main.cpp.o: ../src/main.cpp
+CMakeFiles/final1.dir/src/main.cpp.o: ../src/mutex.cpp
+
+CMakeFiles/final1.dir/src/mutex.cpp.o: ../includes/Case.hpp
+CMakeFiles/final1.dir/src/mutex.cpp.o: ../includes/Investigator.hpp
+CMakeFiles/final1.dir/src/mutex.cpp.o: ../src/mutex.cpp
 
